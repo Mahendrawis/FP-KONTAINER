@@ -6,4 +6,3 @@ Nama Anggota :
 2. Rayhan Rizal Mahendra
 3. Daniel Sultoni Karim
 4. Dimas Dharu Ramdhan
-5. 
