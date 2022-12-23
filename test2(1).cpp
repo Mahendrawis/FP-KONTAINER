@@ -26,8 +26,10 @@ int main(){
 	
 	do{
 		system("cls");
-		printf("1. Tambahkan Gerbong Kereta \n");
-		printf("2. Lihat status gerbong\n");
+		printf("FINAL PROJECT STUKTUR DATA \n");
+		printf(" << Menu >> \n\n"); 
+		printf("1. Tambahkan Kontainer Truk/Kapal \n");
+		printf("2. Lihat status kontainer dengan metode single linked list\n");
 		printf("3. Lihat status gerbong dengan metode double linked list\n");		
 		printf("4. Delete data\n");
 		printf("5. exit \n");
@@ -103,10 +105,10 @@ void addkontainer(kontainer **pHead){
 	int pil1;
 	
 	system("cls");
-	printf("Tambahkan Gerbong Kereta Api \n\n");
+	printf("Tambahkan Kontainer Kapal/Gerbong truk \n\n");
 	fflush(stdin);
 	newNode->kodekt = kodeauto;
-	printf("Masukan berat barang : ");
+	printf("Masukan berat barang (Kg) : ");
 	scanf("%d", &newNode->beratkt);
 	printf("\nPilih jenis barang : \n");
 	printf("  1. Pokok \n");
@@ -175,7 +177,7 @@ void viewkontainer(kontainer *pHead){
 	if(pHead == NULL){
 		printf("Data is not found!");
 	} else {
-		printf("kepala kereta \n");
+		printf("kepala truk \n");
 		while(pWalker != NULL){
 			printf("||\n");
 			printf("__\n");
