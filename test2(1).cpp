@@ -283,7 +283,7 @@ void cekkontainer(kontainer *pHead)
 		{
 			if((strcmp(pWalker->jenisbarang, "pokok")==0) && (strcmp(pWalker->next->jenisbarang,"Kimia")==0) || (strcmp(pWalker->jenisbarang, "kimia")==0) && (strcmp(pWalker->next->jenisbarang, "sekunder")==0))
 			{
-				printf("kontainer %d berisi %s dan kontainer %d berisi %s tidak boleh berdeketan \n",pWalker->kodekt, pWalker->jenisbarang, pWalker->next->kodekt, pWalker->next->jenisbarang);
+				printf("\nkontainer %d berisi %s dan kontainer %d berisi %s tidak boleh berdeketan",pWalker->kodekt, pWalker->jenisbarang, pWalker->next->kodekt, pWalker->next->jenisbarang);
 				flag = 0;
 			}
 			pWalker = pWalker->next;
