@@ -16,3 +16,6 @@ https://drive.google.com/file/d/1DRL5d1dK3ij4qSfpE6leAEOcUCF1x1CC/view?usp=shari
 
 <H1>LINK VIDEO & DEMO</H1>
 https://drive.google.com/file/d/18R3VJv1-JuoTScYUVTfJZo3EyOBxmvgc/view?usp=sharing
+
+<H1>LINK PPT</H1>
+https://www.canva.com/design/DAFV58Q5YLs/GtDbUvdloYq_szZz1s1AUA/edit?utm_content=DAFV58Q5YLs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
