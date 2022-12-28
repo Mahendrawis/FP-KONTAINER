@@ -234,7 +234,34 @@ void sorting(kontainer **pHead)
 	}
 }
 
-
+void viewkontainer(kontainer *pHead)
+{
+	kontainer *pWalker;
+	pWalker = pHead;
+	system("cls");
+	
+	printf("<< Lihat data kontainer >>\n\n");
+	
+	if(pHead == NULL)
+	{
+		printf("Data is not found!");
+	} 
+	
+	else 
+	{
+		printf("kepala truk \n");
+		while(pWalker != NULL)
+		{
+			printf("||\n");
+			printf("---\n");
+			printf("Kode kontainer : %d \n", pWalker->kodekt);
+			printf("berat kontainer : %d \n", pWalker->beratkt);
+			printf("jenis barang : %s \n", pWalker->jenisbarang);
+			printf("---\n");	
+			pWalker = pWalker->next;
+		}
+	}
+}
 
 void cekkontainer(kontainer *pHead)
 {
