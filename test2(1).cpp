@@ -28,14 +28,14 @@ int main()
 	do 
 	{
 		system("cls");
-		printf("FINAL PROJECT STUKTUR DATA \n\n");
-		printf("<< Menu >> \n");
-		printf("1. Tambahkan Kontainer Truk/Kapal \n");
-		printf("2. Lihat status kontainer dengan metode single linked list\n");
-		printf("3. Lihat status gerbong dengan metode double linked list\n");		
-		printf("4. Delete all data\n");
-		printf("5. exit \n\n");
-		printf("Pilih menu : ");
+		printf("FINAL PROJECT STUKTUR DATA \n\n") ;
+		printf("<< Menu >> \n") ;
+		printf("1. Tambahkan Kontainer Truk/Kapal \n") ;
+		printf("2. Lihat status kontainer dengan metod single linked list\n") ;
+		printf("3. Lihat status gerbong dengan metod double linked list\n") ;		
+		printf("4. Delete all data\n") ;
+		printf("5. exit \n\n") ;
+		printf("Pilih menu : ") ;
 		scanf("%d", &pil);
 	
 		while(pil < 1 || pil > 5) 
