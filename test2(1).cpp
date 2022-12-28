@@ -45,7 +45,7 @@ int main()
 			printf("<< Menu >> \n");
 			printf("1. Tambahkan Kontainer Truk/Kapal \n");
 			printf("2. Lihat status kontainer dengan metode single linked list\n");
-			printf("3. Lihat status gerbong dengan metode double linked list\n");		
+			printf("3. Lihat status kontainer dengan metode double linked list\n");		
 			printf("4. Delete data\n");
 			printf("5. exit \n\n");
 			printf("Pilih menu : ");
@@ -139,7 +139,7 @@ void addkontainer(kontainer **pHead)
 	int pil1;
 	
 	system("cls");
-	printf("<< Tambahkan Kontainer Kapal/Gerbong truk >>\n\n");
+	printf("<< Tambahkan Kontainer Kapal/truk >>\n\n");
 	fflush(stdin);
 	newNode->kodekt = kodeauto;
 	printf("Masukan berat barang (Kg) : ");
