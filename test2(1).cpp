@@ -34,7 +34,7 @@ int main()
 		printf("2. Lihat status kontainer dengan metod single linked list\n") ;
 		printf("3. Lihat status gerbong dengan metod double linked list\n") ;		
 		printf("4. Delete all data\n") ;
-		printf("5. exit \n\n") ;
+		printf("5. Quit \n\n") ;
 		printf("Pilih menu : ") ;
 		scanf("%d", &pil);
 	
