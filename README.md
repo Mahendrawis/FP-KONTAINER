@@ -2,9 +2,8 @@
 
 UAS STRUKTUR DATA KELOMPOK 2
 </br>JUDUL : Penyeleksian kontainer pada truck dan kapal.</br>
-Metode : Double linked list & singel linked list</br>
+Metode : Double linked list & singel linked list</br></br>
 Nama Anggota :
-
 1. Mahendra Wisnu Wardana (20081010044)
 2. Rayhan Rizal Mahendra (20081010045)
 3. Mohammad Daniel Sulthonul Karim (20081010059)
