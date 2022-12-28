@@ -9,4 +9,10 @@ Nama Anggota :
 2. Rayhan Rizal Mahendra (20081010045)
 3. Mohammad Daniel Sulthonul Karim (20081010059)
 4. Dimas Dharu Ramdhan (20081010068)
-5. M. Irfan Ardhiansyah (20081010051)
+5. M. Irfan Ardhiansyah (20081010051) <br>
+
+<H1>LINK LAPORAN</H1>
+https://drive.google.com/file/d/1DRL5d1dK3ij4qSfpE6leAEOcUCF1x1CC/view?usp=sharing
+
+<H1>LINK VIDEO & DEMO</H1>
+https://drive.google.com/file/d/18R3VJv1-JuoTScYUVTfJZo3EyOBxmvgc/view?usp=sharing
